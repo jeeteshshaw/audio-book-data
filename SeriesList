@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "The Haunted Forest",
+    "description": "A thrilling horror series.",
+    "coverImageURL": "https://example.com/forest.jpg",
+    "episodes":2
+  }
+]
