@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "The Lost Kingdom",
+    "author": "Lena Harper",
+    "coverImageURL": "https://picsum.photos/id/1011/400/250",
+    "audioURL": "https://example.com/audio/lost_kingdom.mp3",
+    "isLongStory": true
+  },
+  {
+    "id": 2,
+    "title": "Midnight Escape",
+    "author": "Jordan West",
+    "coverImageURL": "https://picsum.photos/id/1012/400/250",
+    "audioURL": "https://example.com/audio/midnight_escape.mp3",
+    "isLongStory": false
+  },
+  {
+    "id": 3,
+    "title": "Echoes in the Woods",
+    "author": "Ava Chen",
+    "coverImageURL": "https://picsum.photos/id/1013/400/250",
+    "audioURL": "https://example.com/audio/echoes_woods.mp3",
+    "isLongStory": true
+  },
+  {
+    "id": 4,
+    "title": "Coffee Shop Encounter",
+    "author": "Sam Lee",
+    "coverImageURL": "https://picsum.photos/id/1014/400/250",
+    "audioURL": "https://example.com/audio/coffee_shop.mp3",
+    "isLongStory": false
+  }
+]
