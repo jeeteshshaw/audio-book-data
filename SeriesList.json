@@ -13,7 +13,6 @@
           "audioURL": "https://example.com/audio/lost_kingdom.mp3",
           "coverImageURL": "https://picsum.photos/id/1011/400/250",
           "seriesId": 1,
-          "isLongStory": true
         },
         {
           "id": 2,
@@ -21,7 +20,6 @@
           "audioURL": "https://example.com/audio/hidden_chamber.mp3",
           "coverImageURL": "https://picsum.photos/id/1012/400/250",
           "seriesId": 1,
-          "isLongStory": true
         }
       ]
     }
