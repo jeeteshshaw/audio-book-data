@@ -2,22 +2,22 @@
   "series": [
     {
       "id": 1,
-      "title": "The Lost Kingdom Series",
+      "title": "Under False Name",
       "description": "A collection of tales from the ancient world.",
       "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746965876/storybook/banner/banner_1_m0dpa2.png",
-      "audioURL": "https://example.com/audio/hidden_chamber.mp3",
+      "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1746972985/storybook/audio/Under%20False%20Names/part-1_grgsb2.mp3",
       "stories": [
         {
           "id": 1,
           "title": "The Lost Kingdom",
-          "audioURL": "https://example.com/audio/lost_kingdom.mp3",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1746972985/storybook/audio/Under%20False%20Names/part-1_grgsb2.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746965876/storybook/banner/banner_1_m0dpa2.png",
           "seriesId": "1ab",
         },
         {
           "id": 2,
           "title": "The Hidden Chamber",
-          "audioURL": "https://example.com/audio/hidden_chamber.mp3",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1746972985/storybook/audio/Under%20False%20Names/part-2_t9j7ft.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746965876/storybook/banner/banner_1_m0dpa2.png",
           "seriesId": "1ab",
         }
