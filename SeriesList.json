@@ -4,23 +4,64 @@
       "id": 1,
       "title": "Under False Name",
       "description": "A collection of tales from the ancient world.",
-      "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746965876/storybook/banner/banner_1_m0dpa2.png",
+      "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746986381/storybook/banner/banner_1_lomkgl.png",
       "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1746972985/storybook/audio/Under%20False%20Names/part-1_grgsb2.mp3",
       "stories": [
         {
           "id": 1,
-          "title": "The Lost Kingdom",
+          "title": "The Whisper in the Stacks",
           "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1746972985/storybook/audio/Under%20False%20Names/part-1_grgsb2.mp3",
-          "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746965876/storybook/banner/banner_1_m0dpa2.png",
-          "seriesId": "1ab",
+          "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746986381/storybook/banner/banner_1_lomkgl.png",
+          "seriesId": "Under False Name",
         },
         {
           "id": 2,
-          "title": "The Hidden Chamber",
+          "title": "Shadows of Yesterday",
           "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1746972985/storybook/audio/Under%20False%20Names/part-2_t9j7ft.mp3",
-          "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746965876/storybook/banner/banner_1_m0dpa2.png",
-          "seriesId": "1ab",
-        }
+          "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746986381/storybook/banner/banner_1_lomkgl.png",
+          "seriesId": "Under False Name",
+        },
+        {
+          "id": 3,
+          "title": "The Sister’s Secret",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1746972990/storybook/audio/Under%20False%20Names/part-3_vksw2y.mp3",
+          "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746986381/storybook/banner/banner_1_lomkgl.png",
+          "seriesId": "Under False Name",
+        },
+        
+        {
+          "id": 4,
+          "title": "Web of Deceit",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1746972983/storybook/audio/Under%20False%20Names/part-4_ciiubj.mp3",
+          "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746986381/storybook/banner/banner_1_lomkgl.png",
+          "seriesId": "Under False Name",
+        },
+        {
+          "id": 5,
+          "title": "Breaking In",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1746972982/storybook/audio/Under%20False%20Names/part-5_vxhei9.mp3",
+          "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746986381/storybook/banner/banner_1_lomkgl.png",
+          "seriesId": "Under False Name",
+        },
+        {
+          "id": 4,
+          "title": "Truth Unmasked",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1746972991/storybook/audio/Under%20False%20Names/part-6_hfesml.mp3",
+          "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746986381/storybook/banner/banner_1_lomkgl.png",
+          "seriesId": "Under False Name",
+        },
+        
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Inheritance Of Ashes",
+      "description": "A collection of tales from the ancient world.",
+      "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1746965876/storybook/banner/banner_1_m0dpa2.png",
+      "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1746972985/storybook/audio/Under%20False%20Names/part-1_grgsb2.mp3",
+      "stories": [
+        
+        
       ]
     }
   ]
