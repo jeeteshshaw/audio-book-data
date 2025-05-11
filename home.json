@@ -1,34 +1,42 @@
 [
   {
     "id": 1,
-    "title": "The Lost Kingdom",
-    "author": "Lena Harper",
-    "coverImageURL": "https://picsum.photos/id/1011/400/250",
-    "audioURL": "https://example.com/audio/lost_kingdom.mp3",
-    "isLongStory": true
-  },
-  {
-    "id": 2,
-    "title": "Midnight Escape",
-    "author": "Jordan West",
-    "coverImageURL": "https://picsum.photos/id/1012/400/250",
-    "audioURL": "https://example.com/audio/midnight_escape.mp3",
+    "title": "The Whispering Forest",
+    "author": "Lena Hart",
+    "coverImageName": "https://example.com/images/whispering_forest.jpg",
+    "audioURL": "https://example.com/audio/whispering_forest.mp3",
     "isLongStory": false
   },
   {
-    "id": 3,
-    "title": "Echoes in the Woods",
-    "author": "Ava Chen",
-    "coverImageURL": "https://picsum.photos/id/1013/400/250",
-    "audioURL": "https://example.com/audio/echoes_woods.mp3",
+    "id": 2,
+    "title": "Journey Through Time",
+    "author": "Kiran Mehta",
+    "coverImageName": "https://example.com/images/journey_time.jpg",
+    "audioURL": "https://example.com/audio/journey_time.mp3",
     "isLongStory": true
   },
   {
+    "id": 3,
+    "title": "The Clockmaker's Secret",
+    "author": "Maya Chen",
+    "coverImageName": "https://example.com/images/clockmaker_secret.jpg",
+    "audioURL": "https://example.com/audio/clockmaker_secret.mp3",
+    "isLongStory": false
+  },
+  {
     "id": 4,
-    "title": "Coffee Shop Encounter",
-    "author": "Sam Lee",
-    "coverImageURL": "https://picsum.photos/id/1014/400/250",
-    "audioURL": "https://example.com/audio/coffee_shop.mp3",
+    "title": "Beneath the Crimson Sky",
+    "author": "Rafael Diaz",
+    "coverImageName": "https://example.com/images/crimson_sky.jpg",
+    "audioURL": "https://example.com/audio/crimson_sky.mp3",
+    "isLongStory": true
+  },
+  {
+    "id": 5,
+    "title": "Midnight at the Lighthouse",
+    "author": "Sara Kim",
+    "coverImageName": "https://example.com/images/midnight_lighthouse.jpg",
+    "audioURL": "https://example.com/audio/midnight_lighthouse.mp3",
     "isLongStory": false
   }
 ]
