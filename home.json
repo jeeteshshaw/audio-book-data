@@ -4,7 +4,7 @@
     "title": "The Whispering Forest",
     "author": "Lena Hart",
     "coverImageName": "https://example.com/images/whispering_forest.jpg",
-    "audioURL": "https://example.com/audio/whispering_forest.mp3",
+    "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1683565661/musify/songs/ega1v6b2cqprscxaibtw.mp3",
     "isLongStory": false
   },
   {
@@ -12,7 +12,7 @@
     "title": "Journey Through Time",
     "author": "Kiran Mehta",
     "coverImageName": "https://example.com/images/journey_time.jpg",
-    "audioURL": "https://example.com/audio/journey_time.mp3",
+    "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1683565661/musify/songs/ega1v6b2cqprscxaibtw.mp3",
     "isLongStory": true
   },
   {
@@ -20,7 +20,7 @@
     "title": "The Clockmaker's Secret",
     "author": "Maya Chen",
     "coverImageName": "https://example.com/images/clockmaker_secret.jpg",
-    "audioURL": "https://example.com/audio/clockmaker_secret.mp3",
+    "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1683565661/musify/songs/ega1v6b2cqprscxaibtw.mp3",
     "isLongStory": false
   },
   {
@@ -28,7 +28,7 @@
     "title": "Beneath the Crimson Sky",
     "author": "Rafael Diaz",
     "coverImageName": "https://example.com/images/crimson_sky.jpg",
-    "audioURL": "https://example.com/audio/crimson_sky.mp3",
+    "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1683565661/musify/songs/ega1v6b2cqprscxaibtw.mp3",
     "isLongStory": true
   },
   {
@@ -36,7 +36,7 @@
     "title": "Midnight at the Lighthouse",
     "author": "Sara Kim",
     "coverImageName": "https://example.com/images/midnight_lighthouse.jpg",
-    "audioURL": "https://example.com/audio/midnight_lighthouse.mp3",
+    "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1683565661/musify/songs/ega1v6b2cqprscxaibtw.mp3",
     "isLongStory": false
   }
 ]
