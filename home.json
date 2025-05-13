@@ -1,42 +1,5 @@
-[
-  {
-    "id": 1,
-    "title": "The Whispering Forest",
-    "author": "Lena Hart",
-    "coverImageName": "https://example.com/images/whispering_forest.jpg",
-    "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1683565661/musify/songs/ega1v6b2cqprscxaibtw.mp3",
-    "isLongStory": false
-  },
-  {
-    "id": 2,
-    "title": "Journey Through Time",
-    "author": "Kiran Mehta",
-    "coverImageName": "https://example.com/images/journey_time.jpg",
-    "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1683565661/musify/songs/ega1v6b2cqprscxaibtw.mp3",
-    "isLongStory": true
-  },
-  {
-    "id": 3,
-    "title": "The Clockmaker's Secret",
-    "author": "Maya Chen",
-    "coverImageName": "https://example.com/images/clockmaker_secret.jpg",
-    "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1683565661/musify/songs/ega1v6b2cqprscxaibtw.mp3",
-    "isLongStory": false
-  },
-  {
-    "id": 4,
-    "title": "Beneath the Crimson Sky",
-    "author": "Rafael Diaz",
-    "coverImageName": "https://example.com/images/crimson_sky.jpg",
-    "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1683565661/musify/songs/ega1v6b2cqprscxaibtw.mp3",
-    "isLongStory": true
-  },
-  {
-    "id": 5,
-    "title": "Midnight at the Lighthouse",
-    "author": "Sara Kim",
-    "coverImageName": "https://example.com/images/midnight_lighthouse.jpg",
-    "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1683565661/musify/songs/ega1v6b2cqprscxaibtw.mp3",
-    "isLongStory": false
-  }
-]
+{
+  "iosVersion": "1.0.1",
+  "android: "1.0.0",
+  "text": "this is from repo"
+}
