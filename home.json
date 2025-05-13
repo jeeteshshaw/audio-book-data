@@ -1,5 +1,5 @@
 {
   "iosVersion": "1.0.1",
-  "android: "1.0.0",
+  "androidVersion": "1.0.0",
   "text": "this is from repo"
 }
