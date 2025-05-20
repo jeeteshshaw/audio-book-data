@@ -153,71 +153,71 @@
       "stories": [
         {
           "id": 1,
-          "title": "Part 1: The Summons",
-          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747073425/storybook/audio/Inheritance%20Of%20Ashes/part-1_zs6drz.mp3",
+          "title": "Episode 1: The Return",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747164012/storybook/audio/The%20last%20Alibi/part-1-compressed_fobbbj.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1747164154/storybook/banner/banner_1_eqbwxu.png",
           "seriesId": "The last Alibi"
         },
         {
           "id": 2,
-          "title": "Part 2: Embers of the Past",
-          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747073372/storybook/audio/Inheritance%20Of%20Ashes/part-2_dxhtry.mp3",
+          "title": "Episode 2: The Prime Suspect",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747164007/storybook/audio/The%20last%20Alibi/part-2-compressed_z9nyxl.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1747164154/storybook/banner/banner_1_eqbwxu.png",
           "seriesId": "The last Alibi"
         },
         {
           "id": 3,
-          "title": "Part 3: The Watcher’s Warning",
-          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747073372/storybook/audio/Inheritance%20Of%20Ashes/part-3_zzuitg.mp3",
+          "title": "Episode 3: Old Friends, New Lies",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747163996/storybook/audio/The%20last%20Alibi/part-3-compressed_y7nucd.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1747164154/storybook/banner/banner_1_eqbwxu.png",
           "seriesId": "The last Alibi"
         },
         {
           "id": 4,
-          "title": "Part 4: Ashes That Whisper",
-          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747073407/storybook/audio/Inheritance%20Of%20Ashes/part-4_p3gsds.mp3",
+          "title": "Episode 4: The Alibi Breaks",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747163990/storybook/audio/The%20last%20Alibi/part-4-compressed_eik1d4.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1747164154/storybook/banner/banner_1_eqbwxu.png",
           "seriesId": "The last Alibi"
         },
         {
           "id": 5,
-          "title": "Part 5: The Forbidden Flame",
-          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747073367/storybook/audio/Inheritance%20Of%20Ashes/part-5_t3yz3e.mp3",
+          "title": "Episode 5: Tangled Webs",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747163993/storybook/audio/The%20last%20Alibi/part-5-compressed_hmgnrc.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1747164154/storybook/banner/banner_1_eqbwxu.png",
           "seriesId": "The last Alibi"
         },
         {
           "id": 6,
-          "title": "Part 6: Rival Bloodlines",
-          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747073386/storybook/audio/Inheritance%20Of%20Ashes/part-6_qwknnn.mp3",
+          "title": "Episode 6: Beneath the Floorboards",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747163993/storybook/audio/The%20last%20Alibi/part-6-compressed_x1vp5m.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1747164154/storybook/banner/banner_1_eqbwxu.png",
           "seriesId": "The last Alibi"
         },
         {
           "id": 7,
-          "title": "Part 7: The Rite of Ember",
-          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747073372/storybook/audio/Inheritance%20Of%20Ashes/part-7_h7krnx.mp3",
+          "title": "Episode 7: The Vicar's Game",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747163998/storybook/audio/The%20last%20Alibi/part-7-compressed_l9rgjw.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1747164154/storybook/banner/banner_1_eqbwxu.png",
           "seriesId": "The last Alibi"
         },
         {
           "id": 8,
-          "title": "Part 8: Ashes of Betrayal",
-          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747073379/storybook/audio/Inheritance%20Of%20Ashes/part-8_ecn1ia.mp3",
+          "title": "Episode 8: The Vicar’s Web",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747164007/storybook/audio/The%20last%20Alibi/part-8-compressed_gbizc5.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1747164154/storybook/banner/banner_1_eqbwxu.png",
           "seriesId": "The last Alibi"
         },
         {
           "id": 9,
-          "title": "Part 9: Smoke and Secrets",
-          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747073389/storybook/audio/Inheritance%20Of%20Ashes/part-9_sscl8t.mp3",
+          "title": "Episode 9: Echoes Before the Fall",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747164000/storybook/audio/The%20last%20Alibi/part-9-compressed_jwx4fn.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1747164154/storybook/banner/banner_1_eqbwxu.png",
           "seriesId": "The last Alibi"
         },
         {
           "id": 10,
-          "title": "Part 10: The Siege of Cinders",
-          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747073407/storybook/audio/Inheritance%20Of%20Ashes/part-10_wevami.mp3",
+          "title": "Episode 10: The Final Ledger",
+          "audioURL": "https://res.cloudinary.com/jesnal/video/upload/v1747163990/storybook/audio/The%20last%20Alibi/part-10_kpcijf.mp3",
           "coverImageURL": "https://res.cloudinary.com/jesnal/image/upload/v1747164154/storybook/banner/banner_1_eqbwxu.png",
           "seriesId": "The last Alibi"
         }
