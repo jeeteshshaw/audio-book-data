@@ -1,6 +1,14 @@
 {
   "series": [
     {
+      "id":4,
+      "title":"Inheritance of Darkness: The Banerjee Legacy",
+      "description":"Inheritance of Darkness: The Banerjee Legacy” follows Ritwik Banerjee, a skeptical young engineer reluctantly drawn into his family’s centuries-old paranormal investigation business. As he unravels chilling mysteries across India—where scientific tricks meet true supernatural danger—Ritwik discovers eerie secrets, ancestral curses, and the burden of a legacy he cannot escape. Blending modern skepticism with ancient rituals, his journey reveals that some shadows are darker than reason can explain."
+      "coverImageURL":"https://res.cloudinary.com/jesnal/image/upload/v1754209729/storybook/banner/banner_tiny_xvjipm.png",
+      "audioURL":"",
+      "stories":[]
+    },
+    {
       "id": 1,
       "title": "Under False Name",
       "description": "In a city where power wears many faces, one woman lives a double life—waitress by day, elusive billionaire heiress by night. But when her secrets begin to unravel, a dangerous game of deception, betrayal, and buried truths ignites. How long can she outrun the truth when even love comes with a hidden price?",
