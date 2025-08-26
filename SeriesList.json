@@ -28,7 +28,28 @@
           "title":"Episode-1",
           "coverImageURL":"https://res.cloudinary.com/jesnal/image/upload/v1756237946/storybook/banner/Aguystandi-2157799096-19_35_07-1_apcgnj.png",
           "seriesId": "The Hidden Class Awaken",
-          "audioURL":"https://res.cloudinary.com/jesnal/video/upload/v1754215128/storybook/audio/Inheritance%20of%20Darkness:%20The%20Banerjee%20Legacy/Timeline_1_jvkrix.mp3"
+          "audioURL":"https://res.cloudinary.com/jesnal/video/upload/v1756238210/storybook/audio/The%20Hidden%20Class%20Awaken/Timeline_1_fljspl.mp3"
+        },
+        {
+          "id":2,
+          "title":"Episode-2",
+          "coverImageURL":"https://res.cloudinary.com/jesnal/image/upload/v1756237946/storybook/banner/Aguystandi-2157799096-19_35_07-1_apcgnj.png",
+          "seriesId": "The Hidden Class Awaken",
+          "audioURL":"https://res.cloudinary.com/jesnal/video/upload/v1756238198/storybook/audio/The%20Hidden%20Class%20Awaken/Timeline_part-2_bnegjq.mp3"
+        },
+        {
+          "id":3,
+          "title":"Episode-3",
+          "coverImageURL":"https://res.cloudinary.com/jesnal/image/upload/v1756237946/storybook/banner/Aguystandi-2157799096-19_35_07-1_apcgnj.png",
+          "seriesId": "The Hidden Class Awaken",
+          "audioURL":"https://res.cloudinary.com/jesnal/video/upload/v1756238246/storybook/audio/The%20Hidden%20Class%20Awaken/Timeline_3_vndd9k.mp3"
+        },
+        {
+          "id":4,
+          "title":"Episode-4",
+          "coverImageURL":"https://res.cloudinary.com/jesnal/image/upload/v1756237946/storybook/banner/Aguystandi-2157799096-19_35_07-1_apcgnj.png",
+          "seriesId": "The Hidden Class Awaken",
+          "audioURL":"https://res.cloudinary.com/jesnal/video/upload/v1756238247/storybook/audio/The%20Hidden%20Class%20Awaken/Timeline_4_e49mii.mp3"
         }
       ]
     },
