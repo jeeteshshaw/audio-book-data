@@ -3,7 +3,7 @@
     "android":{
       "versionCode": "1.0.5",
       "mandatory": true,
-      "storeUrl":""
+      "storeUrl":"https://google.com"
     },
     "ios":{
       "versionCode": "1.0.5",
