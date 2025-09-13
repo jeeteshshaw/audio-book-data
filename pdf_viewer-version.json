@@ -1,12 +1,12 @@
 {
   "version":{
     "android":{
-      "versionCode": "1.0.5",
+      "versionCode": "1.0.2",
       "mandatory": true,
       "storeUrl":"https://google.com"
     },
     "ios":{
-      "versionCode": "1.0.5",
+      "versionCode": "1.0.2",
       "mandatory": true,
       "storeUrl":""
     }
