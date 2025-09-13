@@ -3,10 +3,12 @@
     "android":{
       "versionCode": "1.0.5",
       "mandatory": true,
+      "storeUrl":""
     },
     "ios":{
       "versionCode": "1.0.5",
       "mandatory": true,
+      "storeUrl":""
     }
   }
 }
